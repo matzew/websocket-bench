@@ -1,4 +1,4 @@
-module github.com/matzew/websocket-go
+module github.com/matzew/websocket-bench
 
 go 1.22
 
